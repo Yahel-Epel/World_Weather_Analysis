@@ -7,3 +7,6 @@ To help the PlanMyTrip app to find the travelers travel destination with the pre
 4. Summarize all the locations that answer the traveler's preferred temperature.
 5. We selected 4 cities that answered the weather request and planned a trip.
 6. Find a hotel in each location and help the travelers plan their trip.
+
+![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
+
